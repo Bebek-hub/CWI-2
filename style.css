@@ -1,0 +1,63 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+h3 {
+    color: #201c1c;
+}
+
+caption {
+    font-weight: 700;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th, td {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(even) {
+    background-color: #dddddd;
+}
+
+ul {
+    list-style-type: disc;
+}
+
+.list-edit {
+    font-weight: 700;
+    padding-top: 15px;
+}
+
+span {
+    font-weight: 700;
+    font-family: monospace;
+    font-size: 20px;
+    color: #201c1c;
+}
+
+.task1 {
+    background-color: #f8f7f7;
+    margin: 10px 10px 20px 10px;
+    padding: 15px;
+}
+
+.task2 {
+    background-color: #faf0f0;
+    margin: 10px 10px 20px 10px;
+    padding: 15px;
+}
+
+.task3 {
+    background-color: #f0eeee;
+    margin: 10px 10px 20px 10px;
+    padding: 15px;
+}
+
